@@ -1,4 +1,4 @@
-# Three.js - Template - Simple
+# Three.js spaceship game
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
