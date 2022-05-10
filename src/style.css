@@ -1,19 +1,32 @@
-*
-{
+* {
     margin: 0;
     padding: 0;
 }
 
 html,
-body
-{
+body {
     overflow: hidden;
 }
 
-.webgl
-{
+.webgl {
     position: fixed;
     top: 0;
     left: 0;
     outline: none;
+}
+
+.score1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    color: white;
+}
+
+.score2 {
+    position: absolute;
+    top: 0;
+    left: 5%;
+    z-index: 100;
+    color: white;
 }
